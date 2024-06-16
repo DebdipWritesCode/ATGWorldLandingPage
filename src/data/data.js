@@ -4,7 +4,7 @@ export const articles = [
         description: 'I have worked in UX for the better part of a decade. From now on, I plan to reinforce technology in India. For me, discussion is about expanding to new horizons. I would love to teach and learn in the process.',
         author: 'Sarthak Kamra',
         imageURL: '/postImages/Article.png',
-        authorIconURL: '/authorIcons/Sarthak_Kamra.svg',
+        authorIconURL: '/authorIcons/Sarthak_Kamra.png',
         views: 1400,
     },
 ];
@@ -15,7 +15,7 @@ export const educational_posts = [
         description: 'I have worked in UX for the better part of a decade. From now on, I plan to reinforce technology in India. For me, discussion is about expanding to new horizons. I would love to teach and learn in the process.',
         author: 'Sarah West',
         imageURL: '/postImages/Educational_Post.png',
-        authorIconURL: 'authorIcons/Sarah_West.svg',
+        authorIconURL: 'authorIcons/Sarah_West.png',
         views: 1400,
     }
 ];
@@ -28,7 +28,7 @@ export const events = [
         link: '',
         imageURL: '/postImages/Event.png',
         author: 'Ronal Jones',
-        authorIconURL: '/authorIcons/Ronal_Jones.svg',
+        authorIconURL: '/authorIcons/Ronal_Jones.png',
         views: 1400,
     }
 ];
@@ -41,7 +41,7 @@ export const jobs = [
         imageURL: '',
         link: '',
         author: 'Joseph Gray',
-        authorIconURL: '/authorIcons/Joseph_Gray.svg',
+        authorIconURL: '/authorIcons/Joseph_Gray.png',
         views: 1400,
     }
 ];
@@ -49,18 +49,18 @@ export const jobs = [
 export const groups = [
     {
         name: "Leisure",
-        iconURL: '/groupIcons/Leisure.svg',
+        iconURL: '/groupIcons/Leisure.png',
     },
     {
         name: 'Activism',
-        iconURL: '/groupIcons/Activism.svg',
+        iconURL: '/groupIcons/Activism.png',
     },
     {
         name: 'MBA',
-        iconURL: '/groupIcons/MBA.svg',
+        iconURL: '/groupIcons/MBA.png',
     },
     {
         name: 'Philosophy',
-        iconURL: '/groupIcons/Philosophy.svg',
+        iconURL: '/groupIcons/Philosophy.png',
     }
 ];
