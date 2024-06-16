@@ -1,8 +1,37 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ATGWorld Landing Page
 
-Currently, two official plugins are available:
+The ATGWorld landing page, created as part of an assignment task, features a seamless and user-friendly interface. It includes a prominently placed search bar for quick content discovery, an intuitive login modal for easy authentication, and a well-organized navigation bar for efficient browsing and filtering of posts. These elements combine to provide a smooth and engaging user experience, allowing visitors to easily access and explore the content on ATGWorld.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## Tech Stack
+
+**Client:** React, Tailwind CSS
+
+
+## Demo
+
+https://atg-world-landing-page.vercel.app/
+
+
+## Installation
+
+Install landing page with npm and GitBash
+
+```bash
+  git clone https://github.com/DebdipWritesCode/ATGWorldLandingPage.git
+```
+
+```bash
+  npm install
+  npm run dev
+```
+
+    
+## Screenshots
+
+![Hero and Navbar](./src/assets/readme-images/1.png)
+![Posts](./src/assets/readme-images/2.png)
+![Signup and Login](./src/assets/readme-images/3.png)
+
